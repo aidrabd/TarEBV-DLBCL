@@ -1,5 +1,5 @@
-# 🧬 TarEGFR (Targeting EGFR Resistance in NSCLC)
-A **Multi-Omics & Machine Learning–Driven Drug Discovery Framework** for identifying **Ganoderma lucidum–derived inhibitors** against **EBV-associated Diffuse Large B-Cell Lymphoma (DLBCL)**
+# 🧬 TarEBV-DLBCL (Targeting EBV-associated Diffuse Large B-Cell Lymphoma (DLBCL))
+A **Multi-Omics & Machine Learning–Driven Drug Discovery Framework** for identifying **Natural Product inhibitors** against **EBV-associated Diffuse Large B-Cell Lymphoma (DLBCL)**
 
 ---
 
