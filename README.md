@@ -94,11 +94,10 @@ python predict.py
 ---
 
 ## 📖 Scientific Background
-**TarEBV-DLBCL** is designed to accelerate *in silico* screening of natural anticancer and/or antiviral agents targeting both AKT1 and BCL2 by integrating:  
+**TarEBV-DLBCL** study is designed to accelerate *in silico* screening of natural anticancer and/or antiviral agents targeting both AKT1 and BCL2 by integrating:  
 - **Machine Learning** for predictive modeling  
 - **Molecular Docking** for binding affinity evaluation  
 - **Molecular Dynamics Simulations (200 ns)** for stability validation  
-- **Bioactivity Prediction** for biological relevance assessment  
 
 ---
 
@@ -120,6 +119,5 @@ If you use **TarEBV-DLBCL** in your research, please cite:
 
 ## 🙏 Acknowledgments
 - Training data curated from **ChEMBL** and published literature  
-- Molecular descriptors generated using **RDKit**  
-- Molecular docking and dynamics simulations performed using **AutoDock Vina** and **Schrodinger's DESMOND**  
+- Molecular descriptors generated using **RDKit**   
 - Special thanks to the **open-source bioinformatics and cheminformatics communities**
